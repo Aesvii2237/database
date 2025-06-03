@@ -9,4 +9,8 @@ language: python,SQL,C
 Databases:MySQL, PostreSQL,NoSQL
 
 🪧database
-mini project basic database :table reletionship,contrains,and test data.
+mini project basic database :table reletionship,contrains,and test data.  
+
+
+How to reach me: aesvimalaviya2237@gmail.com
+
